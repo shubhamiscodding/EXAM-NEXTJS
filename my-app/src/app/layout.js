@@ -34,6 +34,7 @@ export default function RootLayout({ children }) {
           <Link href="/mui/drawer">Drawer</Link>
           <Link href="/mui/navigation/tabs">Tabs</Link>
           <Link href="/mui/navigation/appbar">App Bar</Link>
+          <Link href="/data">Data</Link>
         </div>
         <main>{children}</main>
       </nav>
